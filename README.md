@@ -1,2 +1,0 @@
-# rinelin.github.io
-blog
