@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 2469747492@qq.com
 description: "Every failure is leading towards success."
 keyword: "Lin, RineLin Blog, 博客, iOS, Apple, iPhone"
-url: "http://rinelin.github.io/rinelin.github.io"          # your host, for absolute URL
+url: "http://rinelin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -17,9 +17,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: true
-sidebar-about-description: "厉害的侧边栏"
-sidebar-avatar:/img/avatar-by.JPG
+RSS: false
 # weibo_username:     linhaolin
 zhihu_username:     linhaolin
 github_username:    linhaolin
